@@ -2,7 +2,7 @@
   "name": "wrench",
   "version": "1.0.0",
   "description": "Agreggation of DOM and JavaSscript primitive types related utilities.",
-  "main": "index.js",
+  "main": "library.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
