@@ -24,7 +24,8 @@ var wrench = (function () {
         TD: 'TD',
         STRONG: 'STRONG',
         IMG: 'IMG',
-        I: 'I'
+        I: 'I',
+        BR: 'BR'
     };
 
     dom.TagName.ErrorException = {
