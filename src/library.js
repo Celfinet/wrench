@@ -49,6 +49,7 @@ var wrench = (function () {
             if (opt_options.checked) element.checked = opt_options.checked;
             if (opt_options.type) element.type = opt_options.type;
             if (opt_options.for) element.for = opt_options.for;
+            if (opt_options.title) element.title = opt_options.title;
 
             for (var property in opt_options.style) {
                 element.style[property] = opt_options.style[property];
